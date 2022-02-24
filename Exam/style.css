@@ -1,0 +1,21 @@
+/* add code here to make your image 300px square */
+#pet {
+  /* padding: 10px; */
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
+/* add code here to change the color and font family of your name/title */
+h1 {
+  color: crimson;
+  font-family: Impact;
+  font-size: 50px;
+}
+/* Bonus: change the color of your list elements */
+.dog-facts {
+  color: green;
+}
+
+#tagline {
+  color: blue;
+}
